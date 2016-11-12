@@ -1,3 +1,4 @@
+package Rubiks;
 import java.util.Random;
 
 /**
