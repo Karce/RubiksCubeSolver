@@ -1,2 +1,2 @@
 # RubiksCubeSolver
-RubiksCubeSollvers attempts random moves to solve a Rubik's cube.
+RubiksCubeSolver attempts random moves to solve a Rubik's cube.
